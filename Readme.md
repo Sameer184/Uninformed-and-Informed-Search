@@ -1,8 +1,5 @@
 Title: Uninformed & Informed Search
 
-Name: Siva Srinivasa Sameer Miriyala
-UTA ID: 1002024871
-
 Programming Language used: Python
 
 Code Structure:
